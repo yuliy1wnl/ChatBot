@@ -1,0 +1,116 @@
+# Quantum Tech Solutions - Hiring Drive 2025
+
+## About Quantum Tech Solutions
+Quantum Tech Solutions is a leading innovator in quantum computing applications, AI integration, and cloud solutions. Founded in 2020, we have rapidly grown to become a key player in the tech industry, with offices in San Francisco, Singapore, and Berlin.
+
+## Current Open Positions
+
+### Senior Software Engineer - AI Systems
+**Location:** Hybrid (San Francisco Office / Remote)
+**Department:** AI Development Team
+
+**Job Description:**
+The Senior Software Engineer will be responsible for developing cutting-edge AI systems that integrate with our quantum computing solutions. This role requires extensive experience in machine learning frameworks, model optimization, and deploying AI systems at scale.
+
+**Key Responsibilities:**
+- Design, develop, and implement AI models for quantum data processing
+- Optimize existing algorithms to improve efficiency and accuracy
+- Collaborate with quantum computing experts to integrate AI with quantum systems
+- Lead a small team of junior developers and provide technical mentorship
+- Stay updated with the latest advancements in AI research and quantum computing
+
+**Requirements:**
+- Master's degree or PhD in Computer Science, AI, or related field
+- 5+ years of experience in AI/ML software development
+- Strong knowledge of Python, TensorFlow, PyTorch, and other ML frameworks
+- Experience with cloud deployment of AI systems (Azure preferred)
+- Excellent communication and team leadership skills
+
+**Compensation:**
+- Salary Range: $180,000 - $220,000 annually, depending on experience
+- Performance-based annual bonus: Up to 20% of base salary
+- Stock options: 10,000 shares with 4-year vesting schedule
+- Comprehensive health, dental, and vision insurance
+- 401(k) matching up to 6% of salary
+
+### Quantum Solutions Architect
+**Location:** Remote (with occasional travel to client sites)
+**Department:** Client Solutions
+
+**Job Description:**
+The Quantum Solutions Architect will work directly with our enterprise clients to design and implement quantum computing solutions that address their specific business challenges. This role requires a unique combination of technical expertise in quantum computing and strong client-facing skills.
+
+**Key Responsibilities:**
+- Analyze client business processes and identify opportunities for quantum computing applications
+- Design architecture for integrated quantum-classical computing systems
+- Create proof-of-concept implementations to demonstrate solution feasibility
+- Work with the development team to bring solutions from concept to production
+- Provide technical consultation and training to clients
+
+**Requirements:**
+- Bachelor's degree in Computer Science, Physics, or related field (Master's preferred)
+- 3+ years of experience in solutions architecture, preferably in quantum computing
+- Strong understanding of quantum algorithms and their practical applications
+- Familiarity with quantum programming frameworks (Qiskit, Cirq, etc.)
+- Excellent presentation and communication skills
+
+**Compensation:**
+- Salary Range: $160,000 - $200,000 annually, depending on experience
+- Performance-based annual bonus: Up to 15% of base salary
+- Stock options: 8,000 shares with 4-year vesting schedule
+- Comprehensive health, dental, and vision insurance
+- 401(k) matching up to 6% of salary
+
+### DevOps Engineer - Quantum Cloud Infrastructure
+**Location:** Berlin, Germany (On-site)
+**Department:** Cloud Infrastructure
+
+**Job Description:**
+The DevOps Engineer will be responsible for building and maintaining our quantum cloud infrastructure, ensuring high availability, scalability, and security for our quantum computing services.
+
+**Key Responsibilities:**
+- Design, implement, and manage CI/CD pipelines for quantum computing services
+- Develop automation scripts for infrastructure provisioning and management
+- Implement monitoring and logging solutions for quantum computing workloads
+- Ensure system reliability and disaster recovery capabilities
+- Collaborate with security team to implement best practices for quantum computing security
+
+**Requirements:**
+- Bachelor's degree in Computer Science or related field
+- 4+ years of experience in DevOps or Site Reliability Engineering
+- Strong knowledge of cloud platforms, preferably Azure
+- Experience with containerization (Docker, Kubernetes) and infrastructure as code (Terraform, Ansible)
+- Familiarity with quantum computing concepts is a plus but not required
+
+**Compensation:**
+- Salary Range: €80,000 - €100,000 annually, depending on experience
+- Performance-based annual bonus: Up to 15% of base salary
+- Stock options: 7,000 shares with 4-year vesting schedule
+- Comprehensive health insurance
+- 30 days paid vacation annually
+
+## Application Process
+1. Initial Application: Submit your resume and cover letter through our careers portal
+2. Screening Call: 30-minute call with our HR team
+3. Technical Interview: 1-hour interview with the hiring manager and team lead
+4. Technical Assessment: Take-home project or coding exercise
+5. Final Interviews: Panel interviews with team members and executives
+6. Offer: Successful candidates will receive an offer within one week of final interviews
+
+## Benefits for All Positions
+- Flexible working hours
+- Professional development budget (€5,000/year)
+- Wellness program and gym membership
+- Parental leave: 16 weeks fully paid
+- Annual team retreats and social events
+- Equipment allowance for home office setup
+
+## Company Culture
+At Quantum Tech Solutions, we believe in fostering an inclusive, collaborative, and innovative environment. We are committed to diversity and equal opportunity in our hiring practices. Our team members enjoy challenging work, opportunities for growth, and a supportive community of talented professionals.
+
+## Contact Information
+For questions about specific positions or the application process, please contact our recruitment team at careers@quantumtechsolutions.com.
+
+---
+
+*Applications are accepted on a rolling basis until positions are filled. Quantum Tech Solutions is an equal opportunity employer and does not discriminate on the basis of race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, or any other protected characteristic.*

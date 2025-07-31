@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Queryl - Chat with your Documents</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <div class="sidebar">
+            <div class="logo">
+                <h1>Queryl</h1>
+            </div>
+            <div class="nav-items">
+                <div class="nav-item active">
+                    <i class="fas fa-comment-dots"></i>
+                    <span>Chat</span>
+                </div>
+                <div class="nav-item">
+                    <i class="fas fa-file-alt"></i>
+                    <span>Documents</span>
+                </div>
+                <div class="nav-item">
+                    <i class="fas fa-cog"></i>
+                    <span>Settings</span>
+                </div>
+            </div>
+            <div class="user-profile">            <div class="avatar">
+                    <img src="assets/avatar-placeholder.svg" alt="User Avatar">
+                </div>
+                <div class="user-info">
+                    <h3>User</h3>
+                    <p>Online</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="main-content">
+            <div class="chat-header">
+                <div class="chat-info">
+                    <h2>Document Chat</h2>
+                    <p>Ask questions about your documents</p>
+                </div>
+                <div class="chat-actions">
+                    <button class="btn-clear">
+                        <i class="fas fa-trash-alt"></i> Clear Chat
+                    </button>
+                </div>
+            </div>
+            
+            <div class="chat-container">
+                <div class="chat-messages" id="chat-messages">
+                    <div class="welcome-message">
+                        <h3>Welcome to Queryl!</h3>
+                        <p>Ask questions about your documents and get instant answers.</p>
+                    </div>
+                    <!-- Chat messages will appear here -->
+                </div>
+                
+                <div class="chat-input-container">
+                    <form id="chat-form">
+                        <div class="input-wrapper">
+                            <input type="text" id="message-input" placeholder="Type your message here...">
+                            <div class="input-actions">
+                                <button type="button" id="voice-input-btn" title="Voice Input">
+                                    <i class="fas fa-microphone"></i>
+                                </button>
+                                <button type="submit" id="send-message-btn" title="Send Message">
+                                    <i class="fas fa-paper-plane"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Voice Recording Indicator -->
+    <div class="voice-recording-indicator" id="voice-recording-indicator">
+        <div class="recording-waves">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <p>Listening... <button id="stop-recording-btn">Stop</button></p>
+    </div>
+    
+    <!-- Scripts -->
+    <script src="js/app.js"></script>
+</body>
+</html>
